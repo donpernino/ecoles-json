@@ -1,0 +1,147 @@
+[{
+    "cmsCode": "EXPERTISE_PEDIATRIE",
+    "sessions": [{
+        "id": "15421",
+        "type": "Presentiel",
+        "location": "LYON",
+        "price": "550.00",
+        "paymentTimeline": false,
+        "startDate": "2022-09-23",
+        "endDate": "2022-11-19",
+        "days": [{
+            "startTime": "2022-09-23 07:00:00 UTC",
+            "endTime": "2022-09-23 16:00:00 UTC"
+          },
+          {
+            "startTime": "2022-11-19 08:00:00 UTC",
+            "endTime": "2022-11-19 17:00:00 UTC"
+          }
+        ]
+      },
+      {
+        "id": "15422",
+        "type": "Digital",
+        "location": "VISIOCONFERENCE",
+        "price": "350.00",
+        "paymentTimeline": false,
+        "startDate": "2022-10-19",
+        "endDate": "2022-11-19",
+        "days": [{
+            "startTime": "2022-10-19 08:00:00 UTC",
+            "endTime": "2022-11-19 14:00:00 UTC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cmsCode": "EXPERTISE_ACCOMPAGNEMENT_ONCOLOGIE",
+    "sessions": [{
+      "id": "111",
+      "type": "Presentiel",
+      "location": "LYON",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-09-23",
+      "endDate": "2022-09-26",
+      "days": [{
+          "startTime": "2022-09-23 07:00:00 UTC",
+          "endTime": "2022-09-26 16:00:00 UTC"
+        }
+      ]
+    }]
+  },
+  {
+    "cmsCode": "EXPERTISE_ORL",
+    "sessions": [{
+      "id": "999",
+      "type": "Presentiel",
+      "location": "PARIS",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-09-23",
+      "endDate": "2022-09-23",
+      "days": [{
+          "startTime": "2022-09-23 07:00:00 UTC",
+          "endTime": "2022-09-23 16:00:00 UTC"
+        }
+      ]
+    }]
+  },
+  {
+    "cmsCode": "EXPERTISE_GYNECOLOGIE_OBSTRETIQUE",
+    "sessions": [{
+      "id": "667",
+      "type": "Presentiel",
+      "location": "PARIS",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-11-01",
+      "endDate": "2022-11-26",
+      "days": [{
+          "startTime": "2022-11-01 07:00:00 UTC",
+          "endTime": "2022-11-23 16:00:00 UTC"
+        },
+        {
+          "startTime": "2022-11-25 08:00:00 UTC",
+          "endTime": "2022-11-26 17:00:00 UTC"
+        }
+      ]
+    }]
+  },
+  {
+    "cmsCode": "INCONTOURNABLES_CONSEIL",
+    "sessions": [{
+      "id": "668",
+      "type": "Presentiel",
+      "location": "PARIS",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-09-30",
+      "endDate": "2022-10-15",
+      "days": [{
+          "startTime": "2022-09-30 10:00:00 UTC",
+          "endTime": "2022-10-15 18:00:00 UTC"
+        }
+      ]
+    }]
+  },
+  {
+    "cmsCode": "EXPERTISE_DERMATOLOGIE",
+    "sessions": [{
+      "id": "770",
+      "type": "Presentiel",
+      "location": "LILLE",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-09-15",
+      "endDate": "2022-10-15",
+      "days": [{
+          "startTime": "2022-09-15 07:00:00 UTC",
+          "endTime": "2022-09-18 16:00:00 UTC"
+        },
+        {
+          "startTime": "2022-10-10 08:00:00 UTC",
+          "endTime": "2022-10-15 17:00:00 UTC"
+        }
+      ]
+    }]
+  },
+  {
+    "cmsCode": "EXPERTISE_PRISE_CHARGE_PERSONNE_AGEE",
+    "sessions": [{
+      "id": "770",
+      "type": "Digital",
+      "location": "VISIOCONFERENCE",
+      "price": "550.00",
+      "paymentTimeline": false,
+      "startDate": "2022-10-11",
+      "endDate": "2022-12-13",
+      "days": [{
+          "startTime": "2022-10-11 07:00:00 UTC",
+          "endTime": "2022-12-13 16:00:00 UTC"
+        }
+      ]
+    }]
+  },
+]
